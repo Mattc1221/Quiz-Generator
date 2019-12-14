@@ -1,0 +1,43 @@
+
+--------Welcome to the Ateam 14's Quiz Generator!--------
+
+Purpose:
+	- This application is meant to generate quizzes 
+	  based on topic and give results after taking each 
+	  quiz.
+
+How to use:
+	- you can manually add single questions, or load 
+	  questions from a .json file. Once you have added
+	  enough questions, you can navigate to the home
+	  page, choose the topic and  number of questions 
+	  for your quiz, and click "Start Quiz" to take it.
+	  Before you exit the application, you can also save
+	  your uploaded questions into an external .json 
+	  file so that you don't have to upload/input your
+	  questions all over again. You just have to upload
+	  a singular .json file.
+	  Enjoy!
+
+Trouble shooting ideas:
+
+  Problem 1: Start quiz not working
+	-Make sure, you have chosen a topic and the amount 
+	 of questions that you want in your quiz.
+	-Double check to make sure that the "# Questions" 
+	 field does not contain any non integer digits or 
+	 decimals.
+	-If none of these solutions work, then try restarting
+	 the program.
+	
+  Problem 2: A problem not listed
+	-If you run into a problem not listed, then we probably
+	 don't know how to fix it. However, we'd love it if you
+	 would let us know so that we may trouble shoot this.
+	 Thanks!
+	
+Developers:
+	Matthew Chiang, Katy Dong, Jeanette Figiel,
+	Steven Hizmi, YuanQuing he
+	
+	
